@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  title: "No Hype, Recurring Articles About Latest Tech Developments"
+  content: "Read the latest news, articles and hands on guides curated for practicality."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/nextplate"
+    label: "Read Latest Blog"
+    link: "https://main.hypedescent.com/blog"
 
 # Features
 features:
